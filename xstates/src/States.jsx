@@ -77,7 +77,7 @@ function Xstates(){
         {selectedCity && (
             <div style={{textAlign:"center"}}>
                  <h3>You selected <span style={{ fontSize:"30px" }}>{selectedCity}</span>
-            <span style={{color:"grey"}}>,{selectedState},{selectedCountry}</span></h3>
+            <span style={{color:"grey"}}>, {selectedState}, {selectedCountry}</span></h3>
             </div>
            
         )}
